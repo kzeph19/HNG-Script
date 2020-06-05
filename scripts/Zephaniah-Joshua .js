@@ -21,6 +21,6 @@ var myInfo = class
 	}
 
 }
-const joshua = new myInfo("Zephaniah Joshua", "HNG-06681", " zephaniahk333@gmail.com", "JavaScript");
-console.log(joshua.info);
+const joshuaZ = new myInfo("Zephaniah Joshua", "HNG-06681", " zephaniahk333@gmail.com", "JavaScript");
+console.log(joshuaZ.info);
 
